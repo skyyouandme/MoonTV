@@ -79,6 +79,22 @@
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
+    },
+    "mtyy": {
+      "api": "https://www.mtyy5.com/api.php/provide/vod",
+      "name": "麦田影院"
+    },
+    "nnyy": {
+      "api": "https://nnyy.in/api.php/provide/vod",
+      "name": "努努影院"
+    },
+    "jgyy": {
+      "api": "https://hellociqryx6e.com/api.php/provide/vod",
+      "name": "极光影院"
+    },
+    "jgyy": {
+      "api": "https://hellociqryx6e.com/api.php/provide/vod",
+      "name": "极光影院"
     }
   }
 }
